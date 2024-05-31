@@ -65,7 +65,7 @@ function App() {
     <div className="container App">
       <br />
       <br />
-      <h2>To Do App</h2>
+      <h2 className="head">ToDo App</h2>
       <br />
       <br />
 
