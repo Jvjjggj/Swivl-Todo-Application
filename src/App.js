@@ -65,7 +65,11 @@ function App() {
     <div className="container App">
       <br />
       <br />
+<<<<<<< HEAD
       <h2 className="head">ToDo App</h2>
+=======
+      <h2 className='head'>To Do App</h2>
+>>>>>>> 787ad6ebd3ed5dd5d16ee1d6cacaccf6f100ae66
       <br />
       <br />
 
