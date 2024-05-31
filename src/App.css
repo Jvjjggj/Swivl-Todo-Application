@@ -10,7 +10,7 @@ body {
 }
 
 .taskBg {
-  background-color: #555;
+  background-color: #2d464c;
   border-radius: 6px;
   margin-bottom: 20px;
   padding: 10px 140px 10px 15px;
@@ -44,7 +44,6 @@ body {
 
 .taskBg .done .taskText {
   text-decoration: line-through;
-  opacity: 0.3;
 }
 
 .taskBg .iconsWrap {
